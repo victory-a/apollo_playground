@@ -1,6 +1,5 @@
-# GraphQL-ApolloClient-Template
-
-## Youtube Tutorial
+# apollo_playground
+## Link
 [YOUTUBE VIDEO](https://www.youtube.com/watch?v=Dr2dDWzThK8)
 
 
