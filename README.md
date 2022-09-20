@@ -14,4 +14,3 @@ BackEnd:
 - ExpressJS
 - GraphQL
 - Express-GraphQL
-# apollo_playground
